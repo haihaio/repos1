@@ -1,2 +1,3 @@
 hello git
 byby git
+原神启动
